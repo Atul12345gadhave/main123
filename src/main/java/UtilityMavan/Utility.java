@@ -19,6 +19,14 @@ public class Utility {
 
 	public static String  ReadDataPropertiesFile(String key) throws IOException {
 		
+		
+		
+		
+		
+		
+		
+		
+		
 		Properties prop=new Properties();
 		
 		FileInputStream file=new FileInputStream("C:\\Users\\Admin\\eclipse-workspace\\Selenium1\\myproperties");
