@@ -14,7 +14,7 @@ public class POMNeoStoxHomePage {
 	
 	@FindBy(xpath="(//a[text()='OK'])[2]") private WebElement PopupOkButton;
 	
-	
+	//for githib
 	@FindBy(xpath="(//a[@class='neobutton'])[25]") private WebElement PopupClose;
 	
 	
