@@ -38,6 +38,12 @@ public class NeoStoxTestbypropertiesfile extends BaseForPropertiesFile{
 		 password=new POMNeoStoxPassword(driver);
 		 
 		Home=new POMNeoStoxHomePage(driver);
+		  
+		  
+		  
+		  
+		  
+		  
 	  }
 	 
 	 
