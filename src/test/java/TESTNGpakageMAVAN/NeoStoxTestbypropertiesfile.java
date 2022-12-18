@@ -25,6 +25,9 @@ public class NeoStoxTestbypropertiesfile extends BaseForPropertiesFile{
 	POMNeoStoxPassword password;
 	
 	POMNeoStoxHomePage Home;
+	//comment use of jenking
+	
+	
 	
 	
 	 @BeforeClass
